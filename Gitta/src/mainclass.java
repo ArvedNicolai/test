@@ -4,9 +4,11 @@ public class mainclass {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Hallo2.");
+		System.out.print("Hallo Bär.");
 		System.out.print("Hallo.");
-		System.out.print("Hallo.");
-
+		int a = 2, b = 3;
+		int c = a + b;
+		System.out.print(c);
 
 		
 	}
